@@ -3,4 +3,4 @@ let number = 12
 
 console.log(number)
 
-console.log('hello world')
+console.log('hello world hello')
